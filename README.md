@@ -1,7 +1,7 @@
 # Docker-Deck
-## Visualize, design and manage distributed container ecosystems with
-## an intuitive drag-and-drop interface that transforms complex Docker
-## configurations into clear, interconnected visual workflows.
+### Visualize, design and manage distributed container ecosystems with
+### an intuitive drag-and-drop interface that transforms complex Docker
+### configurations into clear, interconnected visual workflows.
 
 1. Docker Deck s is an intuitive visualization and management platform for distributed
 container ecosystems that bridges the gap between complex container technologies
